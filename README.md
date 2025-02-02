@@ -8,4 +8,8 @@ Add your Telegram !ID! (you can search your account ID via bots that show it by 
 
 Replace [Your name] with your nickname in main.py
 
+Run main.py
+
+Start speaking with bot
+
 Done!
